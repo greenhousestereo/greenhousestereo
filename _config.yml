@@ -20,7 +20,7 @@ title                    : "Green House Stereo"
 title_separator          : "-"
 name                     : "Green House Stereo"
 description              : "Neo-hippy blues grunge with folksy undertones and the occasional funky splash."
-url                      : https://www.greenhousestereo.com/
+url                      : # https://www.greenhousestereo.com/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -155,6 +155,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - ["_pages"]
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -299,3 +301,8 @@ defaults:
       type: pages
     values:
       layout: single
+      
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
