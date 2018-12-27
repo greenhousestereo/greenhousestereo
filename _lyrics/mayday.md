@@ -1,7 +1,10 @@
 ## Mayday
 Touch me this and touch me there
+
 Train my tastes and train my fears
+
 Set the rules, make an exception
+
 And pass me through your disinterest
 
 I'll follow you wherever. I'll follow you no matter
