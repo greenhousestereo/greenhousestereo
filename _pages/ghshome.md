@@ -1,6 +1,6 @@
 ---
 title: "Green House Stereo"
-permalink: /
+permalink: /home/
 excerpt: "Green House Stereo"
 ---
 
