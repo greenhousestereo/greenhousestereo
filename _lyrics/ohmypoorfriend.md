@@ -1,4 +1,7 @@
-## Oh, My Poor Friend
+---
+title: Oh, My Poor Friend
+---
+
 Oh, my poor friend did they  
 take it away did they  
 try to say that  
