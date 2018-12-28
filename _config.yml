@@ -294,7 +294,7 @@ defaults:
       related: true
 
 defaults:
-  # _lyrics
+  _lyrics
   - scope:
       path: ""
       type: portfolio
@@ -304,7 +304,7 @@ defaults:
       share: false
 
 defaults:
-  # _pages
+  _pages
   - scope:
       path: ""
       type: pages
