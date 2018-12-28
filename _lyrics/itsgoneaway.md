@@ -1,4 +1,7 @@
-## It's Gone Away
+---
+title: It's Gone Away
+---
+
 Could you find me?  
 Could you find me in all your old home movies?  
 You’re gonna face  
