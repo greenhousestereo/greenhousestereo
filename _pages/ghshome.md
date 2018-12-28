@@ -18,12 +18,13 @@ The band is currently performing throughout the Black Hills.
 
 ## Members
 ### Dylan "Sherpa" Malik
-[dylanbio]: /assets/images/memberphotos/dylanbio.png
+![dylanbio](/assets/images/memberphotos/dylanbio.png)
 Dylan's interest in playing guitar resulted from of his fondness of being loud. He is, in fact, widely accepted as the loudest thing in a 25-mile radius. Fortunately, Dylan is a true representation of unflinching talent. His unmatched sense for balance and timing is reflected in each Green House Stereo song.
 
 Dylan is the lead guitarist of Green House Stereo.
 
 ### Ryan "The Velvet Hammer" Suhr
+{% include figure image_path="/assets/images/memberphotos/dylanbio.png" height: "50px" %}
 No one is entirely sure where Ryan came from or where he is going next. He has been described as a gypsy, vagrant, vagabond, bohemian, and pest. Thankfully, he is just as vibrant, textured, colorful, and exciting in music as he is in life.
 
 Ryan is the bassist of Green House Stereo.
