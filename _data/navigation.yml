@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Shows"
     url: /shows/
   - title: "Music"
     url: /music/
   - title: "Lyrics"
     url: /lyrics/
+  - title: "Photos"
+    url: /photos/
   - title: "Book"
     url: /book/
