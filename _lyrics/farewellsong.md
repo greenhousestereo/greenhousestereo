@@ -1,4 +1,7 @@
-## Farewell Song
+---
+title: Farewell Song
+---
+
 The time has come to choose a new sun  
 Sit beneath it, and whisper  
 We're hanging up blankets on the walls  
