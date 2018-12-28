@@ -1,7 +1,7 @@
 ---
 title: "Lyrics"
 layout: collection
-permalink: /music/lyrics/
+permalink: /lyrics/
 excerpt: "Green House Stereo"
 collection: lyrics
 ---
