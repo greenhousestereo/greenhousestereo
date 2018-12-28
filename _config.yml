@@ -303,14 +303,13 @@ defaults:
       
 defaults:
   # _lyrics
-  - 
-    scope:
+  - scope:
       path: ""
+      type: pages
     values:
       layout: splash
       author_profile: false
       share: false
-
       
 collections:
   lyrics:
