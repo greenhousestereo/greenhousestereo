@@ -25,6 +25,8 @@ Dylan's interest in playing guitar resulted from of his fondness of being loud. 
 
 Dylan is the lead guitarist of Green House Stereo.
 
+* * *
+
 ### Ryan "The Velvet Hammer" Suhr
 
 ![ryanbio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/ryanbio.png){: .align-left}{:height="220px" width="220px"}
