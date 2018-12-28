@@ -19,10 +19,7 @@ The band is currently performing throughout the Black Hills.
 ## Members
 ### Dylan "Sherpa" Malik
 
-![dylanbio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/dylanbio.png){: .align-left}
-
-
-![dylanbio](/assets/images/memberphotos/dylanbio.png){: .align-left}
+![dylanbio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/dylanbio.png){: .align-right}
 
 Dylan's interest in playing guitar resulted from of his fondness of being loud. He is, in fact, widely accepted as the loudest thing in a 25-mile radius. Fortunately, Dylan is a true representation of unflinching talent. His unmatched sense for balance and timing is reflected in each Green House Stereo song.
 
