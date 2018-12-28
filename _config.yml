@@ -308,7 +308,7 @@ defaults:
       layout: posts
       author_profile: false
       share: false
-      title: ""
+      title: 
       
 collections:
   lyrics:
