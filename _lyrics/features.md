@@ -1,4 +1,7 @@
-## Features
+---
+title: Features
+---
+
 You thought you knew your features well  
 You thought you knew every inch of yourself  
 Until you saw your face, that glass image, and you remembered once again  
