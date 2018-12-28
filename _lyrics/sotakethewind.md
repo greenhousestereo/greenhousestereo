@@ -1,4 +1,7 @@
-## So Take The Wind
+---
+title: So Take The Wind
+---
+
 So take the wind, rise and begin, follow it over  
 In the Black Hills, the winter will, try to own you  
 But I promise that, the water tracks, will overflow soon  
