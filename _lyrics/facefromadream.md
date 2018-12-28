@@ -1,4 +1,7 @@
-## Face From a Dream
+---
+title: Face From a Dream
+---
+
 Get ‘em off the phone, do what you were and were not told  
 And always pretend someone is listening  
 If you’re here to make us better, I wish you’d cut the propaganda  
