@@ -303,9 +303,9 @@ defaults:
   # _lyrics
   - scope:
       path: ""
-      type: pages
+      type: lyrics
     values:
-      layout: default
+      layout: posts
       author_profile: false
       share: false
       
