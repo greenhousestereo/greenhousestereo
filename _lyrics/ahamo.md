@@ -1,3 +1,6 @@
+---
+title: Ahamo
+permalink: /music/lyrics/Ahamo
 ## Ahamo
 Who owns these lonely roads  
 Sides streets of Ahamo  
