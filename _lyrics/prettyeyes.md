@@ -1,4 +1,7 @@
-## Pretty Eyes
+---
+title: Pretty Eyes
+---
+
 What once was blue  
 Let’s paint it red  
 Yeah, paint it red  
