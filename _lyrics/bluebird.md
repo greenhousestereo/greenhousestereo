@@ -1,4 +1,7 @@
-## Bluebird
+---
+title: Bluebird
+---
+
 Bluebird black on a rusted fence  
 Do you believe what's happening  
 I've not slept in five long years  
