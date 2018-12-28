@@ -1,4 +1,7 @@
-## Oh My God, God Loves Men
+---
+title: Oh My God, God Loves Men
+---
+
 God, he’s gay for Jesus  
 He nailed him to a cross  
 God, he’s gay for Jesus  
