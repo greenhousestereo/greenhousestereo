@@ -308,7 +308,6 @@ defaults:
       layout: posts
       author_profile: false
       share: false
-      page.title: Lyrics 1
       
 collections:
   lyrics:
