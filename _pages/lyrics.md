@@ -7,4 +7,3 @@ collection: lyrics
 entries_layout: grid
 ---
 
-XYZ XYZ XYZ
