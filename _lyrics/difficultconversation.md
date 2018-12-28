@@ -1,4 +1,7 @@
-## Difficult Conversation
+---
+title: Difficult Conversation
+---
+
 Listen friend, I know it’s hard to hear  
 But there’s something I need to say  
 You’ve fallen far my friend  
