@@ -1,3 +1,7 @@
+---
+title: A Note to Myself
+---
+
 ## A Note to Myself
 Don't even act like you never knew  
 Voice in the mirror it was nothing new  
