@@ -1,4 +1,7 @@
-## Savage
+---
+title: Savage
+---
+
 Come on brothers, let's break out, she asked  
 Where ya gonna be, a year from now, it's getting  
 Harder and harder to tell, fact from  
