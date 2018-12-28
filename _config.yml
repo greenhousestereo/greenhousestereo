@@ -308,7 +308,7 @@ defaults:
       layout: posts
       author_profile: false
       share: false
-      title: "Value"
+      site.title: Lyrics 1
       
 collections:
   lyrics:
