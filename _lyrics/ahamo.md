@@ -2,7 +2,6 @@
 title: Ahamo
 ---
 
-## Ahamo
 Who owns these lonely roads  
 Sides streets of Ahamo  
 Wanders with no fool above  
