@@ -3,6 +3,7 @@ title: "Green House Stereo"
 permalink: /home/
 excerpt: "Green House Stereo"
 classes: wide
+layout: home
 ---
 
 Green House Stereo is a grunge folk-rock band formed in Black Hills of South Dakota. The members of Green House Stereo have been playing together for the past decade. With them, they bring a huge variety of influences, from Jimi Hendrix to The White Stripes, Bob Dylan, Leftover Crack, Elliott Smith, and Sublime.
