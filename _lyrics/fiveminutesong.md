@@ -1,4 +1,7 @@
-## Five Minute Song
+---
+title: Five Minute Song
+---
+
 Like a shipwreck in a prairie, she paints her idols blue  
 Don't look back just now, 'cause she's coming through  
 No one told me out loud, just what she'd do to you  
