@@ -1,4 +1,7 @@
-## Small City
+---
+title: Small City
+---
+
 Small city, brightest lights  
 Someone help me waste my time  
 Lovely Laura tries  
