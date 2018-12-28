@@ -1,4 +1,7 @@
-## Untitled
+---
+title: Untitled
+---
+
 When our temples come to life, we'll stop to watch the poor man die  
 Frozen, stubborn, endless time has torn away the preacher's mind  
 Pass on through your salts and gains--alive and well though thoughts displaced  
