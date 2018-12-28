@@ -305,7 +305,7 @@ defaults:
   # _lyrics
   - scope:
       path: ""
-      type: collection
+      type: pages
     values:
       layout: wide
       author_profile: false
