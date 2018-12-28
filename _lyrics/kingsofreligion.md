@@ -1,4 +1,7 @@
-## Kings of Religion
+---
+title: Kings of Religion
+---
+
 Such a sweet face welcome to the surface  
 But we know you won't get any further  
 So you sit and drink your cheap wine  
