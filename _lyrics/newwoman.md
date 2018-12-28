@@ -1,4 +1,7 @@
-## New Woman
+---
+title: New Woman
+---
+
 You said you'd bring me to the brink of the world  
 With just one drink from your ancient pearl  
 And though we're sleeping now, still I'll wonder how, it got peaceful  
