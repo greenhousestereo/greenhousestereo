@@ -1,6 +1,5 @@
 ---
 title: Ahamo
-permalink: /music/lyrics/Ahamo
 ---
 
 ## Ahamo
