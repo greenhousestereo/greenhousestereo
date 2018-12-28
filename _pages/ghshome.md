@@ -26,26 +26,40 @@ Dylan's interest in playing guitar resulted from of his fondness of being loud. 
 Dylan is the lead guitarist of Green House Stereo.
 
 ### Ryan "The Velvet Hammer" Suhr
+
+![ryanbio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/ryanbio.png){: .align-left}{:height="220px" width="220px"}
+
 No one is entirely sure where Ryan came from or where he is going next. He has been described as a gypsy, vagrant, vagabond, bohemian, and pest. Thankfully, he is just as vibrant, textured, colorful, and exciting in music as he is in life.
 
 Ryan is the bassist of Green House Stereo.
 
 ### Jonny "Big Bird" Williams
+
+![jonnybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/jonnybio.png){: .align-left}{:height="220px" width="220px"}
+
 Jonny didn’t pick his alias, but nevertheless accepted it quietly and politely. He accepts his natural talents and abilities in the same way, moving from instrument to instrument and mastering each. He has been a constant progressive force for the sound of Green House Stereo. Jonny is meek, but never mild.
 
 Jonny is the keyboardist, percussionist, and banjoist of Green House Stereo.
 
 ### Dustin "Star Fucker" Grey
+
+![dustinbio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/dustinbio.png){: .align-left}{:height="220px" width="220px"}
+
 Dustin is a clumsy guitar player and probably the weakest member of Green House Stereo. He is a regular thief of the music created by the members of band and an irregular contributor to everything else in his life. He makes up for this by singing poorly, shouting loudly, kicking and flailing wildly, and always conducting himself with absolute honesty.
 
 Dustin is the frontman and rhythm guitarist of Green House Stereo.
 
 ### Cody "Juicy Jones" Smith
+
+![codybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/circle.png){: .align-left}{:height="220px" width="220px"}
+
 Cody Smith is the simple embodiment of energy. When the other members of Green House Stereo are threatening to lag behind and drift to sleep, Cody can be found, eyes wild and hands ablaze, hammering away on his kit.
 
 Cody is the drummer of Green House Stereo.
 
 ### Sydney "Lady Peckinpaw" Pollack
+
+![sydneybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/sydneybio.png){: .align-left}{:height="220px" width="220px"}
 
 Sydney is the reluctant, official photographer and occasional fill-in rehearsal bassist for Green House Stereo. She believes her bio is entirely too boring.
 
