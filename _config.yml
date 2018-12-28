@@ -315,5 +315,6 @@ defaults:
       
 collections:
   lyrics:
-    output: true    
+    output: true
+    layout: posts
     
