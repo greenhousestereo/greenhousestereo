@@ -1,4 +1,7 @@
-## Whitewood
+---
+title: Whitewood
+---
+
 Onward to Whitewood, we're finding nothing new under the darkened snow  
 And so we wonder, who were the last ones with their drunken notions misunderstood  
 Turn and face the ceiling. Search the patterns for new faces, it's a goddamn distraction  
