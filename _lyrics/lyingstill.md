@@ -1,4 +1,7 @@
-# Lying Still
+---
+title: Lying Still
+---
+
 Ladies and gentlemen, boys and girls  
 It's time we set aside our spoils  
 And clear our poor, sad eyes of poison  
