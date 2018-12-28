@@ -35,6 +35,8 @@ No one is entirely sure where Ryan came from or where he is going next. He has b
 
 Ryan is the bassist of Green House Stereo.
 
+* * *
+
 ### Jonny "Big Bird" Williams
 
 ![jonnybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/jonnybio.png){: .align-left}{:height="220px" width="220px"}
@@ -42,6 +44,8 @@ Ryan is the bassist of Green House Stereo.
 Jonny didn’t pick his alias, but nevertheless accepted it quietly and politely. He accepts his natural talents and abilities in the same way, moving from instrument to instrument and mastering each. He has been a constant progressive force for the sound of Green House Stereo. Jonny is meek, but never mild.
 
 Jonny is the keyboardist, percussionist, and banjoist of Green House Stereo.
+
+* * *
 
 ### Dustin "Star Fucker" Grey
 
@@ -51,6 +55,8 @@ Dustin is a clumsy guitar player and probably the weakest member of Green House 
 
 Dustin is the frontman and rhythm guitarist of Green House Stereo.
 
+* * *
+
 ### Cody "Juicy Jones" Smith
 
 ![codybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/circle.png){: .align-left}{:height="220px" width="220px"}
@@ -59,9 +65,13 @@ Cody Smith is the simple embodiment of energy. When the other members of Green H
 
 Cody is the drummer of Green House Stereo.
 
+* * *
+
 ### Sydney "Lady Peckinpaw" Pollack
 
 ![sydneybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/sydneybio.png){: .align-left}{:height="220px" width="220px"}
 
 Sydney is the reluctant, official photographer and occasional fill-in rehearsal bassist for Green House Stereo. She believes her bio is entirely too boring.
+
+* * *
 
