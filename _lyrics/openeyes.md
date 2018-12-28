@@ -1,4 +1,7 @@
-## Open Eyes
+---
+title: Open Eyes
+---
+
 It hasn’t really snowed down here  
 At least not much lately  
 So I’ll spend some time on those frosted peaks  
