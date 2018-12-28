@@ -1,4 +1,7 @@
-## Mayday
+---
+title: Mayday
+---
+
 Touch me this and touch me there  
 Train my tastes and train my fears  
 Set the rules, make an exception  
