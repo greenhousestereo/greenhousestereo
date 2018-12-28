@@ -303,6 +303,5 @@ defaults:
       
 collections:
   lyrics:
-    output: true
-    permalink:/music/:path/
+    output: true    
     
