@@ -303,11 +303,12 @@ defaults:
       
 defaults:
   # _lyrics
-  - scope:
+  - 
+    scope:
       path: ""
       type: pages
     values:
-      layout: "posts"
+      layout: posts
       author_profile: false
       share: false
 
