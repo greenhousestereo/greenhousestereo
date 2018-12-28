@@ -1,6 +1,5 @@
 ---
 title: Ahamo
-layout: collection
 permalink: /music/lyrics/Ahamo
 ---
 
