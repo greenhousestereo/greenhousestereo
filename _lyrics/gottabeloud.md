@@ -1,4 +1,7 @@
-## Gotta Be Loud
+---
+title: Gotta Be Loud
+---
+
 I've gone far above my call to sin  
 Been sitting languid tired and content  
 My voice has gotten thin  
