@@ -1,8 +1,7 @@
 ---
-
+title: A Penny Saved
 ---
 
-## A Penny Saved
 A penny saved is a woman fired  
 ‘Cause at work, all they do is cry  
 And bitch and moan about equality  
