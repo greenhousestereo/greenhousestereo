@@ -306,6 +306,7 @@ defaults:
   - scope:
       path: ""
       type: pages
+      layout: posts
     values:
       layout: wide
       author_profile: false
