@@ -316,5 +316,5 @@ defaults:
 collections:
   lyrics:
     output: true
-    layout: posts
+    permalink: /music/lyrics/:path/
     
