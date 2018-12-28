@@ -294,17 +294,7 @@ defaults:
       related: true
 
 defaults:
-  _lyrics
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: false
-
-defaults:
-  _pages
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -312,7 +302,7 @@ defaults:
       layout: single
       
 collections:
-  lyrics:
+  _lyrics:
     output: true
     permalink: /:collection/:path/
     
