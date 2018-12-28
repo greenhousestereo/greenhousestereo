@@ -1,4 +1,7 @@
-## Honeyed Hotel
+---
+title: Honeyed Hotel
+---
+
 The World stopped spinning years ago in the spirit of barbed wire  
 And sleepy eyes rest on the horizon  
 And if you'd told me there's no future left for us right here  
