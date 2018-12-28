@@ -1,4 +1,6 @@
-## Wilderness
+---
+title: Wilderness
+---
 
 You might ask yourself while sitting  
 Alone in that quiet house  
