@@ -1,4 +1,7 @@
-## Kathryn
+---
+title: Kathryn
+---
+
 Her mother says she's been hearing ghosts  
 Staying out so late in an old dust house  
 But I've never wondered whether she's wrong or right  
