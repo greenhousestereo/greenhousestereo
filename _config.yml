@@ -302,7 +302,7 @@ defaults:
       layout: single
       
 collections:
-  _lyrics:
+  lyrics:
     output: true
-    permalink: /:collection/:path/
+    permalink:/music/:path/
     
