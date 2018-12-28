@@ -7,7 +7,7 @@ excerpt: "Green House Stereo"
 ## Listen
 Green House Stereo is tentatively planning to record a demo album in Q2 of 2019. This demo will be made available here when it is released.
 
-We happily and proudly provide our music for free. If you like what you hear, please consider [purchasing] some of our material. If you're interested in using our music in some of your own work, please seek permission first.
+We happily and proudly provide our music for free. If you like what you hear, please consider [purchasing](#) some of our material. If you're interested in using our music in some of your own work, please seek permission first.
 
 ## Watch
 XYZ
