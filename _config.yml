@@ -301,6 +301,17 @@ defaults:
     values:
       layout: single
       
+defaults:
+  # _lyrics
+  - scope:
+      path: ""
+      type: collection
+    values:
+      layout: wide
+      author_profile: false
+      share: false
+
+      
 collections:
   lyrics:
     output: true    
