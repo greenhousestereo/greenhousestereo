@@ -2,6 +2,7 @@
 title: Photos
 permalink: /photos/
 gallery:
+  id: show1
   - url: /assets/images/bandphotos/IMG_0577 (2).JPG
     image_path: /assets/images/bandphotos/IMG_0577 (2).JPG
     alt: "Cody Smith"
@@ -20,5 +21,5 @@ gallery:
     title: "Dylan Malik, Cody Smith, and Dustin Grey"
 ---
 
-{% include gallery1 caption="Green House Stereo, baby! [View More.](show1.md) %}
+{% include gallery id="show1" caption="Green House Stereo, baby! [View More.](show1.md) %}
 
