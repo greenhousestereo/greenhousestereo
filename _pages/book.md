@@ -2,6 +2,9 @@
 title: "Book"
 permalink: /book/
 excerpt: "Green House Stereo"
+header:
+  image: /assets/images/banners/Banner 02.jpg
+  caption: "Photo credit: Dustin Grey"
 ---
 
 Green House Stereo is available for booking throughout the western South Dakota area. Additionally, feel free to contact us regarding recording or business propositions.
