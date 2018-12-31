@@ -20,5 +20,5 @@ galleryxyz:
     title: "Dylan Malik, Cody Smith, and Dustin Grey"
 ---
 
-{% include gallery id="galleryxyz" caption="Green House Stereo, baby! Or what?" %}
+{% include gallery id="galleryxyz" caption="Green House Stereo, baby! [Or what?](show1.md)" %}
 
