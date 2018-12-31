@@ -43,11 +43,11 @@ gallery_donkeycreek:
 ---
 
 ## Jake's Tavern
-{% include gallery id="gallery_jakestavern" caption="[See more.](jakestavern.md)" %}
+{% include gallery id="gallery_jakestavern" caption="[See more.](jakestavern)" %}
 
 ## Living Canvas
-{% include gallery id="gallery_livingcanvas" caption="[See more.](livingcanvas.md)" %}
+{% include gallery id="gallery_livingcanvas" caption="[See more.](livingcanvas)" %}
 
 ## Donkey Creek
-{% include gallery id="gallery_donkeycreek" caption="[See more.](donkeycreek.md)" %}
+{% include gallery id="gallery_donkeycreek" caption="[See more.](donkeycreek)" %}
 
