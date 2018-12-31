@@ -8,5 +8,9 @@ header:
 ---
 | Venue | City | Date | Time | Price |
 |:----- |:---- |:---- |:---- |:----- |
-| Test  | Test | Test | 9PM | Free  | 
+| Tower West  | Gillette, WY | XYZ | 9PM | Free  | 
+| Jake's Tavern  | Gillette, WY | XYZ | 9PM | Free  | 
+| Paintings on a Living Canvas  | Gillette, WY | XYZ | 5PM | Free  | 
+| Sickies Garage  | Rapid City, SD | 4 July 2018 | 5-8PM | Free  | 
+| Donkey Creek 2018  | Gillette, WY | XYZ | 10AM | Free  | 
 {: rules="groups"}
