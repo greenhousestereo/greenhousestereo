@@ -3,7 +3,7 @@ title: "Book"
 permalink: /book/
 excerpt: "Green House Stereo"
 header:
-  image: /assets/images/banners/Banner 02.jpg
+  image: /assets/images/banners/Banner 02.png
   caption: "Photo credit: Dustin Grey"
 ---
 
