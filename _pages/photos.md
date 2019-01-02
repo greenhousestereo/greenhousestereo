@@ -1,6 +1,9 @@
 ---
 title: Photos
 permalink: /photos/
+header:
+  image: /assets/images/banners/Banner 10.png
+  caption: "Photo credit: Sydney Pollack"
 gallery_jakestavern:
   - url: /assets/images/bandphotos/IMG_0577 (2).JPG
     image_path: /assets/images/bandphotos/IMG_0577 (2).JPG
