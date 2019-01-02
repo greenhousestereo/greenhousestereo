@@ -6,7 +6,7 @@ excerpt: "Green House Stereo"
 collection: lyrics
 entries_layout: grid
 header:
-  image: /assets/images/banners/Banner 04.JPG
+  image: /assets/images/banners/Banner 09.png
   caption: "Photo credit: Sydney Pollack"
 ---
 
