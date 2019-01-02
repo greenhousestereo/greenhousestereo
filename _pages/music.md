@@ -3,7 +3,7 @@ title: "Music"
 permalink: /music/
 excerpt: "Green House Stereo"
 header:
-  image: /assets/images/banners/Banner 06.JPG
+  image: /assets/images/banners/Banner 05.png
   caption: "Photo credit: Sydney Pollack"
 ---
 
