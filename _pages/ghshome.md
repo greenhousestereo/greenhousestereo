@@ -46,6 +46,16 @@ Jonny is the keyboardist, percussionist, and banjoist of Green House Stereo.
 
 * * *
 
+### Cody "Juicy Jones" Smith
+
+![codybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/circle.png){: .align-left}{:height="220px" width="220px"}
+
+Cody is the simple embodiment of energy. When the other members of Green House Stereo are threatening to lag behind and drift to sleep, Cody can be found, eyes wild and hands ablaze, hammering away on his kit.
+
+Cody is the drummer of Green House Stereo.
+
+* * *
+
 ### Dustin "Star Fucker" Grey
 
 ![dustinbio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/dustinbio.png){: .align-left}{:height="220px" width="220px"}
@@ -53,16 +63,6 @@ Jonny is the keyboardist, percussionist, and banjoist of Green House Stereo.
 Dustin is a clumsy guitar player and probably the weakest member of Green House Stereo. He is a regular thief of the music created by the members of band and an irregular contributor to everything else in his life. He makes up for this by singing poorly, shouting loudly, kicking and flailing wildly, and always conducting himself with absolute honesty.
 
 Dustin is the frontman and rhythm guitarist of Green House Stereo.
-
-* * *
-
-### Cody "Juicy Jones" Smith
-
-![codybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/circle.png){: .align-left}{:height="220px" width="220px"}
-
-Cody Smith is the simple embodiment of energy. When the other members of Green House Stereo are threatening to lag behind and drift to sleep, Cody can be found, eyes wild and hands ablaze, hammering away on his kit.
-
-Cody is the drummer of Green House Stereo.
 
 * * *
 
