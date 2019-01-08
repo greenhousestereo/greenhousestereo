@@ -20,5 +20,5 @@ Watch more of our videos on our [YouTube](https://www.youtube.com/channel/UCI8p8
 [comment]: <> (## Purchase)
 [comment]: <> (Your support is very much appreciated, but we nevertheless release all of our material free of charge. See Listen above to download our latest recordings. If you decide to purchase, we want you to decide how much you would like to pay. Our music is available for purchase at XYZ.)
 
-## Lyrics
+## Read
 If you simply want to read the lyrics to our songs, you can visit our [lyrics](/lyrics/) page. 
