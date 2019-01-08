@@ -5,18 +5,12 @@ header:
   image: /assets/images/banners/Banner 10.png
   caption: "Photo credit: Sydney Pollack"
 gallery_jakestavern:
-  - url: /assets/images/bandphotos/IMG_0577 (2).JPG
-    image_path: /assets/images/bandphotos/IMG_0577 (2).JPG
-    alt: "Cody Smith"
-    title: "Cody Smith"
-  - url: /assets/images/bandphotos/IMG_0619 (2).JPG
-    image_path: /assets/images/bandphotos/IMG_0619 (2).JPG
-    alt: "Jonny Williams"
-    title: "Jonny Williams"
-  - url: /assets/images/bandphotos/IMG_1358.JPG
-    image_path: /assets/images/bandphotos/IMG_1358.JPG
-    alt: "Dylan Malik, Cody Smith, and Dustin Grey"
-    title: "Dylan Malik, Cody Smith, and Dustin Grey"
+  - url: /assets/images/bandphotos/jakestavern 01.JPG
+    image_path: /assets/images/bandphotos/jakestavern 01.JPG
+  - url: /assets/images/bandphotos/jakestavern 02.JPG
+    image_path: /assets/images/bandphotos/jakestavern 02.JPG
+  - url: /assets/images/bandphotos/jakestavern 03.JPG
+    image_path: /assets/images/bandphotos/jakestavern 03.JPG
 gallery_livingcanvas:
   - url: /assets/images/bandphotos/IMG_0577 (2).JPG
     image_path: /assets/images/bandphotos/IMG_0577 (2).JPG
