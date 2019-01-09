@@ -1,6 +1,6 @@
 ---
-title: "Book"
-permalink: /book/
+title: "Booking"
+permalink: /booking/
 excerpt: "Green House Stereo"
 header:
   image: /assets/images/banners/Banner 02.png
