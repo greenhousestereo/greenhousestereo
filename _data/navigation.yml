@@ -8,5 +8,5 @@ main:
     url: /lyrics/
   - title: "Photos"
     url: /photos/
-  - title: "Book"
-    url: /book/
+  - title: "Booking"
+    url: /booking/
