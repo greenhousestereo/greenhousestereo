@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: Sydney Pollack"
 ---
 
-Green House Stereo is currently [booking](/book/) shows throughout the Black Hills and surrounding areas. 
+Green House Stereo is currently [booking](/booking/) shows throughout the Black Hills and surrounding areas. 
 
 | Venue | City | Date | Time | Price |
 |:----- |:---- |:---- |:---- |:----- |
