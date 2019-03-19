@@ -6,7 +6,6 @@ header:
   image: /assets/images/banners/Banner 05.png
   caption: "Photo credit: Sydney Pollack"
 ---
-
 ## Listen
 Green House Stereo is tentatively planning to record a demo album in August of 2019. This demo will be made available here when it is released.
 
