@@ -41,7 +41,7 @@ Ryan is the bassist of Green House Stereo.
 
 Jonny didn’t pick his alias, but nevertheless accepted it quietly and politely. He accepts his natural talents and abilities in the same way, moving from instrument to instrument and mastering each. He has been a constant progressive force for the sound of Green House Stereo. Jonny is meek, but never mild.
 
-Jonny is the keyboardist, percussionist, and banjoist of Green House Stereo.
+Jonny is the drummer for of Green House Stereo, though he often performs as keyboardist, percussionist, and banjoist. The man is unstoppable. 
 
 * * *
 
@@ -69,7 +69,7 @@ Dustin is the frontman and rhythm guitarist of Green House Stereo.
 
 ![sydneybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/sydneybio.png){: .align-left}{:height="220px" width="220px"}
 
-Sydney is the reluctant, official photographer and occasional fill-in rehearsal bassist for Green House Stereo. She believes her bio is entirely too boring.
+Sydney is the reluctant, official photographer and occasional fill-in rehearsal bassist for Green House Stereo. She is also in charge of all Green House Stereo marketing and social media presence. She believes her bio is entirely too boring.
 
 * * *
 
