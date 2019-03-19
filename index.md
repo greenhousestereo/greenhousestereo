@@ -41,7 +41,7 @@ Ryan is the bassist of Green House Stereo.
 
 Jonny didn’t pick his alias, but nevertheless accepted it quietly and politely. He accepts his natural talents and abilities in the same way, moving from instrument to instrument and mastering each. He has been a constant progressive force for the sound of Green House Stereo. Jonny is meek, but never mild.
 
-Jonny is the drummer for of Green House Stereo, though he often performs as keyboardist, percussionist, and banjoist. The man is unstoppable. 
+Jonny is the drummer of Green House Stereo, though he often performs as keyboardist, percussionist, and banjoist. The man is unstoppable. 
 
 * * *
 
