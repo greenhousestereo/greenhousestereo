@@ -6,7 +6,5 @@ main:
     url: /music/
   - title: "Lyrics"
     url: /lyrics/
-  - title: "Photos"
-    url: /photos/
   - title: "Booking"
     url: /booking/
