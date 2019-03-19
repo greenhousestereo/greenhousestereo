@@ -45,15 +45,15 @@ Jonny is the keyboardist, percussionist, and banjoist of Green House Stereo.
 
 * * *
 
-### Cody "Juicy Jones" Smith
+<!--### Cody "Juicy Jones" Smith-->
 
-![codybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/codybio.png){: .align-left}{:height="220px" width="220px"}
+<!--![codybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/codybio.png){: .align-left}{:height="220px" width="220px"}-->
 
-Cody is the simple embodiment of energy. When the other members of Green House Stereo are threatening to lag behind and drift to sleep, Cody can be found, eyes wild and hands ablaze, hammering away on his kit.
+<!--Cody is the simple embodiment of energy. When the other members of Green House Stereo are threatening to lag behind and drift to sleep, Cody can be found, eyes wild and hands ablaze, hammering away on his kit.-->
 
-Cody is the drummer of Green House Stereo.
+<!--Cody is the drummer of Green House Stereo.-->
 
-* * *
+<!--* * * -->
 
 ### Dustin "Star Fucker" Grey
 
