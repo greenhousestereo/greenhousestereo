@@ -55,7 +55,7 @@ Jonny is the drummer of Green House Stereo, though he often performs as keyboard
 
 <!--* * * -->
 
-### Dustin "Star Fucker" Grey
+### Dustin "My Poor Friend" Grey
 
 ![dustinbio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/dustinbio.png){: .align-left}{:height="220px" width="220px"}
 
