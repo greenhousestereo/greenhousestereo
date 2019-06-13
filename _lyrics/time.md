@@ -33,3 +33,5 @@ Up for your own ideals
 And you sit with your empty head
 Filled with ideas
 Filling up with time
+  
+*Dustin Grey*
