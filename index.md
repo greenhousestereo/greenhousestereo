@@ -35,7 +35,7 @@ Ryan is the bassist of Green House Stereo.
 
 * * *
 
-### Jonny "Big Bird" Williams
+### Jonny "Brushfire" Williams
 
 ![jonnybio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/jonnybio.png){: .align-left}{:height="220px" width="220px"}
 
@@ -55,7 +55,7 @@ Jonny is the drummer of Green House Stereo, though he often performs as keyboard
 
 <!--* * * -->
 
-### Dustin "My Poor Friend" Grey
+### Dustin "Star Fucker" Grey
 
 ![dustinbio]({{ site.url }}{{ site.baseurl }}/assets/images/memberphotos/dustinbio.png){: .align-left}{:height="220px" width="220px"}
 
