@@ -11,6 +11,8 @@ Green House Stereo is currently [booking](/booking/) shows throughout the Black 
 
 | Venue | City | Date | Time | Price |
 |:----- |:---- |:---- |:---- |:----- |
+| Spearfish Brewing Company  | Spearfish, SD | 13 July 2019 | 730PM | Free  | 
+| Spearfish Brewing Company  | Spearfish, SD | 15 June 2019 | 7PM | Free  | 
 | Spearfish Brewing Company  | Spearfish, SD | 13 April 2019 | 6PM | Free  | 
 | Tower West  | Gillette, WY | 7 December 2018 | 9PM | Free  | 
 | Jake's Tavern  | Gillette, WY | 6 October 2018 | 9PM | Free  | 
